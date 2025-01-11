@@ -29,5 +29,5 @@ iniciar Apache + MySQL
 
 sudo /opt/lampp/lampp Start 
 
-
+sudo /opt/lampp/manager-linux-x64.run
 
